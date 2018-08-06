@@ -1,0 +1,22 @@
+export default function(){
+    return[
+        {
+            id:1,
+            pen:2,
+            books:3,
+            soap:1
+        },
+        {
+            id:2,
+            pen:4,
+            books:5,
+            soap:8
+        },
+        {
+            id:3,
+            pen:12,
+            books:13,
+            soap:11
+        }
+    ]
+}
